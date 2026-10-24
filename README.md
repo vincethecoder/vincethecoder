@@ -1,4 +1,4 @@
-## Hi, I'm Vince 👋 aka Kobe Wankenobi (The.One.And.Only.) 
+## Hi, I'm Vince 👋 (Kobe)
 
 **Autonomous engineer (mobile, watchOS, SDK, Full Stack) · Trust & Safety · Swift, SwiftUI, Objective-C, C++, Swift Concurrency, Combine**
 
