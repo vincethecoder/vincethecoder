@@ -1,6 +1,8 @@
 ## Hi, I'm Vince 👋
 
-**Autonomous engineer (mobile, watchOS, SDK, Full Stack) · Trust & Safety · Swift, SwiftUI, Objective-C, C++, Swift Concurrency, Combine**
+**Impact-driven Engineer (iOS, watchOS, SDK, platform)**
+
+ · Trust & Safety · SwiftUI, Swift, Obj-C · Swift Concurrency · Scala · GraphQL · AI/ML-driven features
 
 - ⌚️ **Now:** watchOS at Apple, working on Messages safety features for Apple Watch
 - 🛡️ **Before:** Trust & Safety and account security on iOS at Twitter/X: passkeys, content labels, Freedom of Speech Not Reach, and EU DSA reporting
@@ -11,7 +13,7 @@ Most of my work is closed source. Here is what you can read:
 
 ### 🥋 Personal project
 
-**[BJJ Competition Finder](https://github.com/vincethecoder/app-bjj-competition-finder)** is an iOS app built test-first with a modular Clean Architecture: 83 tests across the domain, API, Core Data cache and UI layers, with every change landed through a pull request.
+**[BJJ Competition Finder](https://github.com/vincethecoder/app-bjj-competition-finder)** is an iOS app built test-first with a modular Clean Architecture: 83 tests across the domain, API, Core Data cache, and UI layers, with every change landed through a pull request.
 
 ### 🗺️ Open source: Mapbox Navigation SDK for iOS
 
