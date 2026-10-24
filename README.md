@@ -1,6 +1,6 @@
-## Hi, I'm Vince 👋
+## Hi, I'm Vince 👋 aka Kobe Wankenobi (The.One.And.Only.) 
 
-**Senior iOS & watchOS engineer · Trust & Safety · Swift, SwiftUI, Objective-C**
+**Autonomous engineer (mobile, watchOS, SDK, Full Stack) · Trust & Safety · Swift, SwiftUI, Objective-C, C++, Swift Concurrency, Combine**
 
 - ⌚️ **Now:** watchOS at Apple, working on Messages safety features for Apple Watch
 - 🛡️ **Before:** Trust & Safety and account security on iOS at Twitter/X: passkeys, content labels, Freedom of Speech Not Reach, and EU DSA reporting
