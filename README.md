@@ -1,6 +1,6 @@
 ## Hi, I'm Vince 👋
 
-**Impact-driven Engineer (iOS, watchOS, SDK, platform) | Visionary | Mentor (Coach)**
+**Impact-driven Engineer (iOS, watchOS, SDK, platform) | Lead (Technical, Project, and Cross-functional) | Mentor (Coach)**
 
 ### 🧰 Domains:
  · Trust & Safety · Account Security · Fintech · Navigation, Maps · Bot Detection, Remediation Stacks
