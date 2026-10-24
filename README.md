@@ -1,4 +1,4 @@
-## Hi, I'm Vince 👋 (Kobe)
+## Hi, I'm Vince 👋
 
 **Autonomous engineer (mobile, watchOS, SDK, Full Stack) · Trust & Safety · Swift, SwiftUI, Objective-C, C++, Swift Concurrency, Combine**
 
