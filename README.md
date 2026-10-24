@@ -1,10 +1,14 @@
 ## Hi, I'm Vince 👋
 
-**Impact-driven Engineer (iOS, watchOS, SDK, platform)**
+**Impact-driven Engineer (iOS, watchOS, SDK, platform) | Visionary | Mentor (Coach)**
 
- · Trust & Safety · SwiftUI, Swift, Obj-C · Swift Concurrency · Scala · GraphQL · AI/ML-driven features
+### 🧰 Domains:
+ · Trust & Safety · Account Security · Fintech · Navigation, Maps · Bot Detection, Remediation Stacks
+ 
+### ⚒️ Expertise:
+ · SwiftUI, Swift, Obj-C · Swift Concurrency · Scala · GraphQL · AI/ML-driven features · Performance · Optimization 
 
-- ⌚️ **Now:** watchOS at Apple, working on Messages safety features for Apple Watch
+- ⌚️ **Recent:** watchOS at Apple, working on Messages safety features for Apple Watch
 - 🛡️ **Before:** Trust & Safety and account security on iOS at Twitter/X: passkeys, content labels, Freedom of Speech Not Reach, and EU DSA reporting
 - 🧭 **Earlier:** CarPlay and the open-source Navigation SDK at Mapbox, plus shared iOS components at Capital One
 - 🧪 **How I work:** test-first, modular Clean Architecture, and accessibility from day one
