@@ -1,4 +1,4 @@
-## Hi, I'm Vince 👋
+## Hi, I'm Vince (aka Kobe Wankenobi) 👋 
 
 **Impact-driven Engineer (iOS, watchOS, SDK, platform) | Lead (Technical, Project, and Cross-functional) | Mentor (Coach)**
 
