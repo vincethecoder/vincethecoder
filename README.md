@@ -3,7 +3,7 @@
 **Impact-driven Engineer (iOS, watchOS, SDK, platform) | Lead (Technical, Project, and Cross-functional) | Mentor (Coach)**
 
 ### 🧰 Domains:
- · Trust & Safety · Account Security · Fintech · Navigation, Maps · Bot Detection, Remediation Stacks
+ · Trust & Safety · Account Security · Fintech · Navigation, Maps · Bot Detection, Remediation Stacks · Social Impact
  
 ### ⚒️ Expertise:
  · SwiftUI, Swift, Obj-C · Swift Concurrency · Scala · GraphQL · AI/ML-driven features · Performance · Optimization 
