@@ -17,7 +17,7 @@ Most of my work is closed source. Here is what you can read:
 
 ### 🥋 Personal project
 
-**[BJJ Competition Finder](https://github.com/vincethecoder/app-bjj-competition-finder)** is an iOS app built test-first with a modular Clean Architecture: 83 tests across the domain, API, Core Data cache, and UI layers, with every change landed through a pull request.
+**[BJJ Competition Finder](https://github.com/vincethecoder/app-bjj-competition-finder)** is a test-first iOS app built with modular Clean Architecture: 83 tests across the domain, API, Core Data cache, and UI layers, with every change landed through a pull request.
 
 ### 🗺️ Open source: Mapbox Navigation SDK for iOS
 
